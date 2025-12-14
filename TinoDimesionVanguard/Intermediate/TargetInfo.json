@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TinoDimesionVanguard",
+			"Path": "..\\Source\\TinoDimesionVanguard.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TinoDimesionVanguardEditor",
+			"Path": "..\\Source\\TinoDimesionVanguardEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

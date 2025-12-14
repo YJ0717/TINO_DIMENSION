@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\unrealeditor\\inc\\tinodimesionvanguard\\uht\\tinodimesionvanguardgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\x64\\tinodimesionvanguardeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tinodimesionvanguard\\definitions.tinodimesionvanguard.h",
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\source\\tinodimesionvanguard\\tinodimesionvanguardgamemode.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\unrealeditor\\inc\\tinodimesionvanguard\\uht\\tinodimesionvanguardgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

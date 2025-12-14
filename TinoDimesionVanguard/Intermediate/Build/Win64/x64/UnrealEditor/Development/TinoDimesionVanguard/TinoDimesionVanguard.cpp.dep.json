@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\source\\tinodimesionvanguard\\tinodimesionvanguard.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\x64\\tinodimesionvanguardeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tinodimesionvanguard\\definitions.tinodimesionvanguard.h",
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\source\\tinodimesionvanguard\\tinodimesionvanguard.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

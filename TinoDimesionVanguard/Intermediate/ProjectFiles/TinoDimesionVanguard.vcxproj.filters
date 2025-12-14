@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TinoDimesionVanguard.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TinoDimesionVanguard.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TinoDimesionVanguardEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\CampusProject.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TinoDimesionVanguard">
+      <UniqueIdentifier>{FA57E5FF-DE6B-3107-927E-B26700B32F89}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TinoDimesionVanguard\TinoDimesionVanguard.Build.cs">
+      <Filter>Source\TinoDimesionVanguard</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TinoDimesionVanguard\TinoDimesionVanguard.cpp">
+      <Filter>Source\TinoDimesionVanguard</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TinoDimesionVanguard\TinoDimesionVanguard.h">
+      <Filter>Source\TinoDimesionVanguard</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TinoDimesionVanguard\TinoDimesionVanguardCharacter.cpp">
+      <Filter>Source\TinoDimesionVanguard</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TinoDimesionVanguard\TinoDimesionVanguardCharacter.h">
+      <Filter>Source\TinoDimesionVanguard</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TinoDimesionVanguard\TinoDimesionVanguardGameMode.cpp">
+      <Filter>Source\TinoDimesionVanguard</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TinoDimesionVanguard\TinoDimesionVanguardGameMode.h">
+      <Filter>Source\TinoDimesionVanguard</Filter>
+    </ClInclude>
+    <Filter Include="Source\TinoDimesionVanguard\Private">
+      <UniqueIdentifier>{17CEB0ED-50DE-31B2-9541-2CBC863FDD56}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TinoDimesionVanguard\Private\server_connect.cpp">
+      <Filter>Source\TinoDimesionVanguard\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TinoDimesionVanguard\Public">
+      <UniqueIdentifier>{1EF2C598-79D1-3AE2-B4F2-C45CD13CBB2E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TinoDimesionVanguard\Public\server_connect.h">
+      <Filter>Source\TinoDimesionVanguard\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

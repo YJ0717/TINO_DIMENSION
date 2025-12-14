@@ -1,0 +1,77 @@
+﻿Log file open, 12/14/25 20:50:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=1936)
+LogWindows: Custom abort handler registered for crash reporting.
+LogInit: Display: Running engine for game: TinoDimesionVanguard
+LogCore: UTS: Unreal Trace Server launched successfully
+LogTrace: Initializing trace...
+LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+LogTrace: Display: Control listening on port 1985
+LogTrace: Finished trace initialization.
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.6-CL-44394996"
+LogCsvProfiler: Display: Metadata set : engineversion="5.6.1-44394996+++UE5+Release-5.6"
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (25H2) [10.0.26200.7462] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+LogCsvProfiler: Display: Metadata set : asan="0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Admin\Desktop\TINO_DIMENSION\TinoDimesionVanguard\TinoDimesionVanguard.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="639a37cf41af128916e6e1a3088b23cd"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 0.368931
+LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-316A45F04345BE3D37B555B7D9820C98
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [../../../../../../Users/Admin/Desktop/TINO_DIMENSION/TinoDimesionVanguard/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogAudio: Display: Pre-Initializing Audio Device Manager...
+LogAudio: Display: AudioInfo: 'OPUS' Registered
+LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+LogAudio: Display: AudioInfo: 'OGG' Registered
+LogAudio: Display: AudioInfo: 'ADPCM' Registered
+LogAudio: Display: AudioInfo: 'PCM' Registered
+LogAudio: Display: AudioInfo: 'BINKA' Registered
+LogAudio: Display: AudioInfo: 'RADA' Registered
+LogAudio: Display: Audio Device Manager Pre-Initialized
+LogPluginManager: Looking for build plugins target receipt
+LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/Admin/Desktop/TINO_DIMENSION/TinoDimesionVanguard/Binaries/Win64/*.target
+LogAssetRegistry: Display: No AssetDiscovery cache present at ../../../../../../Users/Admin/Desktop/TINO_DIMENSION/TinoDimesionVanguard/Intermediate/CachedAssetRegistryDiscovery.bin. AssetRegistry discovery of files will be uncached.
+LogConfig: Display: Loading VulkanPC ini files took 0.10 seconds
+LogConfig: Display: Loading Mac ini files took 0.10 seconds
+LogConfig: Display: Loading IOS ini files took 0.10 seconds
+LogConfig: Display: Loading Android ini files took 0.11 seconds
+LogConfig: Display: Loading Windows ini files took 0.13 seconds
+LogConfig: Display: Loading Unix ini files took 0.14 seconds
+LogConfig: Display: Loading TVOS ini files took 0.14 seconds
+LogConfig: Display: Loading Linux ini files took 0.17 seconds
+LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+LogPluginManager: Looking for enabled plugins target receipt
+LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/Admin/Desktop/TINO_DIMENSION/TinoDimesionVanguard/Binaries/Win64/*.target
+LogConfig: Display: Loading VisionOS ini files took 0.10 seconds
+LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+Message dialog closed, result: No, title: Missing Plugin, text: This project requires the 'TcpSocketPlugin' plugin, which could not be found. Would you like to disable it and continue?
+
+If you do, you will no longer be able to open any assets created with it. If not, the application will close.
+LogPluginManager: Error: Unable to load plugin 'TcpSocketPlugin'. It was requested by Enabled plugins in .uproject for , but is missing on disk. Aborting. Looked in these locations for .uplugin files:
+	PluginsDir: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins
+	PluginsDir: C:/Program Files/Epic Games/UE_5.6/Engine/Platforms/Android/Plugins
+	PluginsDir: C:/Program Files/Epic Games/UE_5.6/Engine/Platforms/IOS/Plugins
+	PluginsDir: C:/Users/Admin/Desktop/TINO_DIMENSION/TinoDimesionVanguard/Mods/
+LogCore: Engine exit requested (reason: EngineExit() was called)
+LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: )...
+LogAudio: Display: Audio Device Manager Shutdown
+LogExit: Preparing to exit.
+LogPakFile: Destroying PakPlatformFile
+LogExit: Exiting.
+Log file closed, 12/14/25 20:51:13

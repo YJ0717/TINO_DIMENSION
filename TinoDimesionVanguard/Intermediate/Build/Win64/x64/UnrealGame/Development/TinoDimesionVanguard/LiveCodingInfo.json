@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TinoDimesionVanguard.gen.cpp.obj": [
+			"server_connect.gen.cpp.obj",
+			"TinoDimesionVanguard.init.gen.cpp.obj",
+			"TinoDimesionVanguardCharacter.gen.cpp.obj",
+			"TinoDimesionVanguardGameMode.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\source\\tinodimesionvanguard\\tinodimesionvanguardgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\x64\\tinodimesionvanguardeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tinodimesionvanguard\\definitions.tinodimesionvanguard.h",
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\source\\tinodimesionvanguard\\tinodimesionvanguardgamemode.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\unrealeditor\\inc\\tinodimesionvanguard\\uht\\tinodimesionvanguardgamemode.generated.h",
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\source\\tinodimesionvanguard\\tinodimesionvanguardcharacter.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\unrealeditor\\inc\\tinodimesionvanguard\\uht\\tinodimesionvanguardcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

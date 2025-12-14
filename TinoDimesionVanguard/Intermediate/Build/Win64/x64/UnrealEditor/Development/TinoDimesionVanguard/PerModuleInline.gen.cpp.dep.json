@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tinodimesionvanguard\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\x64\\tinodimesionvanguardeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\desktop\\tino_dimension\\tinodimesionvanguard\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tinodimesionvanguard\\definitions.tinodimesionvanguard.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
